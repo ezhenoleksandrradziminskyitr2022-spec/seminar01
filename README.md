@@ -1,1 +1,8 @@
-# HELLO WORLD FROM TEST BRANCH
+# Hello World Project 
+Compilation:
+
+javac src/Main.java
+
+Running:
+
+java -cp src Main
